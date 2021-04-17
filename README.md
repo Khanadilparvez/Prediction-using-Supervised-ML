@@ -1,5 +1,5 @@
 # Task 1 Prediction using Supervised ML
-### By: Vadala Sainath Reddy
+### By: KHAN ADIL PARVEZ
 
 This task will predict the percentage of student based on the study hours using supervised ML (Linear Regression) that must completed as an intern at [The Sparks Foundation](https://www.thesparksfoundationsingapore.org/).
 
